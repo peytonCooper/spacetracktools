@@ -1,4 +1,4 @@
-# spacetracktools
+# Space Track Tools
 Repository for python tools made for interfacing with Space-Track.org
 📡 TLE Downloader and Parser
 
